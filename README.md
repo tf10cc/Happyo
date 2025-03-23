@@ -1,6 +1,6 @@
 【今回やったこと】<br><br>
 　・yamlファイル(Graphデータ)をダウンロードして保存<br>
-　・OPENAI　課金　APIキー取得<br>
+　・.envファイル作成（OPENAI　課金　APIキー取得）<br>
 　・GraphAI の cliをインストール<br>
 　・サンプルファイル実行<br>
 　・コードペン【未実施】<br>
